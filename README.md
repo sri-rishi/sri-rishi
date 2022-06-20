@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rishi Srivastava</h1>
 <h3 align="center">Learning web development @neogCamp | Coding enthusiast</h3>
 
-- 🌱 I’m currently learning **React, Redux**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 Protfolio [https://sririshiport.netlify.app/](https://sririshiport.netlify.app/)
 
