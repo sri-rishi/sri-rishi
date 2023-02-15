@@ -5,7 +5,7 @@
 
 ## My Blogs
 
-<a href="https://hashnode.com/@sririshi" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode"/></a>
+<a href="https://sririshi.hashnode.dev/" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="hashnode"/></a>
 
 ## Tech Stack ⚒️
 
