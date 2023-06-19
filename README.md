@@ -21,7 +21,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sri-rishi&langs_count=10&layout=compact&theme=radical&hide_border=true)
 
-![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sri-rishi&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true)
+<!-- ![Rishi's GitHub stats](https://github-readme-stats.vercel.app/api?username=sri-rishi&show_icons=true&include_all_commits=true&count_private=true&theme=radical&hide_border=true) -->
 
 [![An image of @sririshi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sririshi)](https://holopin.io/@sririshi)
 
